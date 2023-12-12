@@ -14,6 +14,7 @@
   - 경기도 교통정보 센터 (1시간 단위) : https://gits.gg.go.kr/gtdb/web/trafficDb/trafficVolume/alwaysTrafficVolumeHighway.do
   
   2) 일반도로
+  - 국가교통정보센터 (5분 단위) : https://its.go.kr/
 
 
 3. 데이터 분석
@@ -21,3 +22,4 @@
 자세한 것은 발표자료 및 보고서 참고
 
 4. 결론
+학교에 늦지 않게 도착하기 위해서는 회안대로에 
